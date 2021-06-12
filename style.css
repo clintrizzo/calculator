@@ -1,7 +1,7 @@
 .container{
   position: relative;
-  width: 300px;
-  height: 350px;
+  width: 450px;
+  height: 410px;
   border: 3px solid #666666;
   margin: 30px auto;
   border-radius: 5px;
@@ -11,24 +11,28 @@
 input[type="text"] {
     position: relative;
     display: block;
-    width: 90%;
+    width: 93%;
+    height: 35px;
     margin-top:12px;
     margin-left:10px;
     margin-bottom: 12px;
-    font-size: 20px;
+    font-size: 30px;
     background-color: #cccccc;
+    border-radius: 15px;
   }
   
   input[type="button"] {
     position: relative;
     background-color: #b3b3b3;
     width: 20%;
-    margin: 2%;
-    font-size: 20px;
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 18px;
+    font-size: 30px;
     font-weight: bold;
-    border-radius: 10%;
+    border-radius: 30px;
   }
   
   input[type="button"]:hover {
-    background-color: #8c8c8c;
+    background-color: white;
   }
