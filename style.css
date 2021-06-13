@@ -1,14 +1,4 @@
-* {
-    padding: 0px;
-    margin: 0px;
-  }
-  
-  html {
-    background-color: #ffffff;
-    font-family: Roboto;
-  }
-
-.container{
+div{
   position: relative;
   width: 450px;
   height: 450px;
