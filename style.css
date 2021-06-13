@@ -1,3 +1,13 @@
+* {
+    padding: 0px;
+    margin: 0px;
+  }
+  
+  html {
+    background-color: #a7a1a1;
+    font-family: Roboto;
+  }
+
 .container{
   position: relative;
   width: 450px;
