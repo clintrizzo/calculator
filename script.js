@@ -3,8 +3,8 @@ window.onload = function() {
 
     var input = document.getElementById("inputBox");
     var container = document.getElementById("container");
-    container.addEventListener("click", function(e) {
-      buttonClick(e.target.id);
+    container.addEventListener("click", function(a) {
+      buttonClick(a.target.id);
     });
     var calc = document.getElementById("button=");
     calc.addEventListener("click", calculate);
