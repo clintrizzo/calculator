@@ -8,6 +8,12 @@ body {
     height: 100%;
 }
 
+h1{
+  font-size: 30px;
+  text-align: center;
+  text-decoration: wavy black;
+}
+
 div{
   position: relative;
   width: 450px;
