@@ -4,14 +4,15 @@ body {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
-    width: 100%;
-    height: 100%;
+    width: 98%;
+    height: 95%;
 }
 
 h1{
   font-size: 30px;
   text-align: center;
-  text-decoration: wavy black;
+  text-decoration: line-through white 1px;
+  padding-top: -20px;
 }
 
 div{
