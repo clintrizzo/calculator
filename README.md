@@ -6,7 +6,7 @@ Description:
 Deployment:
 - https://clintrizzo.github.io/calculator/
 
-future:
+Future:
 - My plan for this projct is to allow the user to be able to use the keyboard to input. I would also like to create more of a scientific calculator for future use. 
 
 
